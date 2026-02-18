@@ -5,6 +5,7 @@
 - [Comp1238](comp1238.md)
 
 ## Schedule
+gie.villena@georgebrown.ca
 - Monday
   - 09:00 - [Comp1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)
   - 11:00 - [Comp1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
